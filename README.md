@@ -1,12 +1,17 @@
 
+### Hi there 👋
 
-Hello, welcome to my Github ! I'm Nicolas Bahl and I'm a student at Epitech.
-<p>I'm currently working at <a href="https://www.freshmile.com/">Freshmile</a></p>
-<p>You can contact me by email at <strong>nicolas.bahl1@gmail.com</strong></p>
+I'm Nicolas Bahl, a student at Epitech and a software developer with experience in web and mobile development.
+
+🌱 I'm currently working at [Freshmile](https://www.freshmile.com/), where I'm improving my skills in React Native.
+
+🚀 In my free time, I love working on personal projects and experimenting with new technologies. Check out some of my recent projects below:
 
 
+💬 Feel free to get in touch with me at nicolas.bahl1@gmail.com. I'm always open to collaboration and new opportunities.
 
-My skills: 
+
+### My skills: 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
