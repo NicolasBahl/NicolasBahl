@@ -2,6 +2,7 @@
 
 Hello, welcome to my Github ! I'm Nicolas Bahl and I'm a student at Epitech.
 <p>I'm currently working at <a href="https://www.freshmile.com/">Freshmile</a></p>
+<p>You can contact me by email at <strong>nicolas.bahl1@gmail.com</strong></p>
 
 
 
@@ -17,8 +18,4 @@ My skills:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
- 
-
-  
-</p>
-
+ </p>
