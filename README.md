@@ -5,8 +5,7 @@ I'm Nicolas Bahl, a student at Epitech and a software developer with experience 
 
 🌱 I'm currently working at [Freshmile](https://www.freshmile.com/), where I'm improving my skills in React Native.
 
-🚀 In my free time, I love working on personal projects and experimenting with new technologies. Check out some of my recent projects below:
-
+🚀 In my free time, I love working on personal projects and experimenting with new technologies.
 
 💬 Feel free to get in touch with me at nicolas.bahl1@gmail.com. I'm always open to collaboration and new opportunities.
 
