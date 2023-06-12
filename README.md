@@ -26,5 +26,4 @@ I'm Nicolas Bahl, a student at Epitech and a software developer with experience 
 ### In progress :
 <p>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"/>
 </p>
