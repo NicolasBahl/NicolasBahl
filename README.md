@@ -33,8 +33,11 @@ I'm Nicolas Bahl, a student at Epitech and a software developer with experience 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </p>
-
 </p>
+
+### Statistics: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBahl&layout=compact)
+
 
 
 
