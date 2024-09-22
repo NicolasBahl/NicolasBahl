@@ -32,11 +32,6 @@ I'm Nicolas Bahl, a student at Epitech and a software developer with experience 
 </p>
 </p>
 
-### Statistics: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBahl&layout=compact)
-
-
-
 
 
 
