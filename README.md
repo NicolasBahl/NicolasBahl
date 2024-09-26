@@ -10,7 +10,7 @@ I'm Nicolas Bahl, a student at Epitech and a software developer with experience 
 💬 Feel free to get in touch with me at nicolas.bahl1@gmail.com. I'm always open to collaboration and new opportunities.
 
 
-### My skills: 
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
