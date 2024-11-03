@@ -43,6 +43,11 @@
 #### **Testing**
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 
+
+### **AR**
+<img src="https://camo.githubusercontent.com/890fa1bec96d246b6ec66609155fb34531c45873419ef2f01f733772f967aacc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f756e6974792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465"/>
+
+
 #### **Tools**
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
