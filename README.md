@@ -2,7 +2,7 @@
 
 
 
-- 🌱 **Currently working at** [Freshmile](https://www.freshmile.com/), as a mobile developper.
+- ⚡️ **Currently working at** [Freshmile](https://www.freshmile.com/), as a mobile developper.
 - 🚀 In my free time, I love working on **personal projects** and experimenting with new technologies.
 - 💬 Feel free to **get in touch** with me at **nicolas.bahl1@gmail.com**. I'm always open to collaboration and new opportunities.
 
