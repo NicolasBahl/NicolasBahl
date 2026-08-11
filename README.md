@@ -12,33 +12,49 @@
 
 #### **Web Development**
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/813509b9-6776-4655-b6f8-fe94108df416" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b138ab07-5f57-4848-b20f-bd616950b402" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1ea4e1cc-96e3-459d-b9cd-68c1c324dedc" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8c5a1f99-18f8-4646-ab04-4e1ab851763c" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/504b184b-74b3-4049-a7da-018bf0454d68" />
+
+
 
 </p>
 
 #### **Mobile Development**
 <p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4a575f18-0ad7-484d-8aa2-e5a17827de91" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/acb3a9ea-ea7e-435b-86a4-8c7d9f7e2035" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7691cff8-b2ae-4b56-9cd6-b7d66fbd6f75" />
+
+
 </p>
 
 #### **Backend**
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3f9fa18-fef2-4d1b-9021-b9cfdbcb75e8" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/925d5b2a-426d-4dd8-ae5c-2159a6a732c2" />
+<img height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a80a4da6-c560-4318-b1e0-94220397fe15" />
 </p>
 
-
-
 #### **Testing**
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/070f992b-3b00-4894-b700-f0477648879c" />
+
+#### **Tools**
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5262f4f6-f794-4580-ba08-0036da63ba6f" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c152ee54-748f-410d-9781-399508e020bf" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e06937f8-c0c1-4072-8429-d8c6a60a19ce" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a72638dd-244c-4def-b23a-e6ad2bee7484" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c8c702d9-4afc-47c1-ab9a-1c182781167a" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/11a32296-c676-413f-b6d8-0c6580f2e800" />
+
+
+
+
+
+
+
 
 
