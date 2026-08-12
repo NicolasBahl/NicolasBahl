@@ -18,6 +18,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b138ab07-5f57-4848-b20f-bd616950b402" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1ea4e1cc-96e3-459d-b9cd-68c1c324dedc" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8c5a1f99-18f8-4646-ab04-4e1ab851763c" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/acb3a9ea-ea7e-435b-86a4-8c7d9f7e2035" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/504b184b-74b3-4049-a7da-018bf0454d68" />
 
 
@@ -36,6 +37,7 @@
 #### **Backend**
 <p>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3f9fa18-fef2-4d1b-9021-b9cfdbcb75e8" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b1342b89-7ffd-4a8f-a9bb-0d4a19b75649" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/925d5b2a-426d-4dd8-ae5c-2159a6a732c2" />
 <img height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"/>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a80a4da6-c560-4318-b1e0-94220397fe15" />
