@@ -4,7 +4,6 @@
 
 - ⚡️ Currently working at [Freshmile](https://www.freshmile.com/), mainly as a mobile developer, but I also do web and back-end development
 - 🥨 I'm currently based in Strasbourg, France.
-- 💬 Feel free to get in touch with me at **nicolas.bahl1@gmail.com**. I'm always open to collaboration and new opportunities.
 
 ---
 
