@@ -23,11 +23,10 @@
 </p>
 
 #### **Mobile Development**
-<p>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4a575f18-0ad7-484d-8aa2-e5a17827de91" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/acb3a9ea-ea7e-435b-86a4-8c7d9f7e2035" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7691cff8-b2ae-4b56-9cd6-b7d66fbd6f75" />
-
+<ul>
+  <li>React Native</li>
+  <li>Expo</li>
+</ul>
 
 </p>
 
