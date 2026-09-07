@@ -31,17 +31,19 @@
 </p>
 
 #### **Backend**
-<p>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a3f9fa18-fef2-4d1b-9021-b9cfdbcb75e8" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b1342b89-7ffd-4a8f-a9bb-0d4a19b75649" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/925d5b2a-426d-4dd8-ae5c-2159a6a732c2" />
-<img height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"/>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a80a4da6-c560-4318-b1e0-94220397fe15" />
-</p>
+  <ul>
+  <li>PHP</li>
+  <li>Laravel</li>
+  <li>Node.js / Express</li>
+  <li>Prisma</li>
+  <li>MySQL</li>    
+</ul>
 
 #### **Testing**
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/070f992b-3b00-4894-b700-f0477648879c" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ecf5f3b8-32d0-484c-b052-e074c691d7a1" />
+  <ul>
+  <li>Jest</li>
+  <li>Cypress</li>  
+</ul>
 
 
 #### **Tools**
