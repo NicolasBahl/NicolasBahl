@@ -14,6 +14,7 @@
   <li>React</li>
   <li>Vue.js</li>
   <li>Nuxt</li>
+  <li>Nuxt.js</li>
   <li>JavaScript / TypeScript</li>
   <li>HTML</li>
   <li>CSS / Tailwind</li>
