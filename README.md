@@ -6,53 +6,31 @@
 - 🥨 I'm currently based in Strasbourg, France.
 
 ---
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+### 🎨 Frontend & Web
 
-#### **Web Development**
-<ul>
-  <li>React</li>
-  <li>Vue.js</li>
-  <li>Nuxt</li>
-  <li>Nuxt.js</li>
-  <li>JavaScript / TypeScript</li>
-  <li>HTML</li>
-  <li>CSS / Tailwind</li>
-</ul>
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nuxt,js,ts,html,css,tailwind)](https://skillicons.dev)
 
-</p>
+### 📱 Mobile
 
-#### **Mobile Development**
-<ul>
-  <li>React Native</li>
-  <li>Expo</li>
-</ul>
+[![My Skills](https://skillicons.dev/icons?i=react,native,expo)](https://skillicons.dev)
 
-</p>
+### ⚙️ Backend
 
-#### **Backend**
-  <ul>
-  <li>PHP</li>
-  <li>Laravel</li>
-  <li>Node.js / Express</li>
-  <li>Prisma</li>
-  <li>MySQL</li>    
-</ul>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express)](https://skillicons.dev)
 
-#### **Testing**
-  <ul>
-  <li>Jest</li>
-  <li>Cypress</li>  
-</ul>
+### 🗄️ Databases & ORM
 
+[![My Skills](https://skillicons.dev/icons?i=mysql,prisma)](https://skillicons.dev)
 
-#### **Tools**
-- Docker
-- PHP Storm
-- Visual Studio Code
-- Azure
-- Obsidian
-- Firebase
+### 🧪 Testing
+
+[![My Skills](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
+
+### ☁️ Cloud & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=docker,azure,firebase,vscode,phpstorm)](https://skillicons.dev)
 
 
 
