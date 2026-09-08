@@ -5,7 +5,7 @@
 - ⚡️ Currently working at [Freshmile](https://www.freshmile.com/), mainly as a mobile developer, but I also do web and back-end development
 - 🥨 I'm currently based in Strasbourg, France.
 
----
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend & Web
